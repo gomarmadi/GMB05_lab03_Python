@@ -4,6 +4,7 @@ Practical work 3. In the discipline of Cross-platform Application Development
 If the maximum element in the table is located after the minimum, then change the value of the maximum and minimum by 1.
 
 ![Screenshot](Screenshot_1.png)
+
 Код реализации алгоритма
 ```
 max_value, min_value, max_i, max_j, min_i, min_j = counting(array)
